@@ -1,10 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+import './index.css'
+import Routes from './routes'
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Hello World !</h1>
+    <Routes />
   </React.StrictMode>,
   document.getElementById('root')
-);
+)
