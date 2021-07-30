@@ -1,0 +1,40 @@
+{
+  "name": "wander-pins",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/wander-pins.git"
+  },
+  "scripts": {
+    "client": "cd client && yarn run start",
+    "server": "cd server && yarn run dev",
+    "install": "cd client && yarn && cd ../server && yarn"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "graphql",
+    "apollo",
+    "mongodb",
+    "mongoose",
+    "google-oauth-2.0",
+    "react.js",
+    "mapbox",
+    "material-ui",
+    "cloudinary"
+  ],
+  "author": {
+    "name": "imed jaberi",
+    "email": "imed-jaberi@outlook.com",
+    "url": "https://www.3imed-jaberi.com"
+  },
+  "license": "MIT",
+  "enignes": {
+    "node": ">= 14.16.0"
+  },
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/wander-pins/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/wander-pins#readme"
+}
