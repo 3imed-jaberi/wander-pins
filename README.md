@@ -10,7 +10,7 @@ URL - [link] -
 
 ### Tecnologies
 
-_Server_
+**Server**
 
 - Node.js http://nodejs.org
 - GraphQL https://graphql.org
@@ -21,7 +21,7 @@ _Server_
 - Google OAuth 2.0 https://developers.google.com/identity/protocols/oauth2
 - ...etc
 
-_Client_
+**Client**
 
 - React.js v17.x.x (hooks, hoc, react-router, react-map-gl ...etc) https://reactjs.org
 - GraphQL https://graphql.org
