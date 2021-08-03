@@ -6,7 +6,10 @@ export function StoreContextProvider({ children }) {
   const [state, dispatch] = useReducer(reducer, initialState)
 
   return (
-    <StoreContext.Provider value={{ state, dispatch }}>
+    <StoreContext.Provider
+      value={{ state, dispatch }}
+      displayName="WanderPinsStoreContext"
+    >
       {children}
     </StoreContext.Provider>
   )
