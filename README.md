@@ -8,7 +8,7 @@ The app will be a live geolocation app called WanderPins where users can 'pin' d
 URL - [link] -
 -->
 
-### Tecnologies
+### Technologies
 
 **Server**
 
